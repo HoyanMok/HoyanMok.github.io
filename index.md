@@ -2,11 +2,11 @@
 
 ## About
 
-My name is Hoyan Mok. I can speak Chinese, Cantonese, Japanese and English. 
+My name is Hoyan Mok. I can speak **Chinese**, **Cantonese**, **Japanese** and **English**. 
 
 I major in physics and astronomy.
 
-I am currently learning Python and LaTeX.
+I am currently learning **Python** and **LaTeX**.
 
 ## I am about to do ...
 
