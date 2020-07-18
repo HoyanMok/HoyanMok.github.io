@@ -1,8 +1,7 @@
-{% include MathJax.html %}
 ---
 mathjax: true
 ---
-
+{% include MathJax.html %}
 
 ## Test
 
