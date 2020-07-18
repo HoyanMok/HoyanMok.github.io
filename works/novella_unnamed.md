@@ -1,6 +1,6 @@
-p{ 
-    white-space:pre-wrap;
-}
+---
+layout: post
+---
 
 # 未命名的中篇
 
