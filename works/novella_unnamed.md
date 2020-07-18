@@ -1,5 +1,7 @@
 ---
 layout: post
+title: 未命名的中篇
+logo: 
 ---
 
 # 未命名的中篇
