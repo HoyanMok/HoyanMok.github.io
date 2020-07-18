@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 未命名的中篇
 ---
 
