@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hoyan Mok's Home page
+description: Hoyan Mok's personal pages
+---
+
 # List of my works
 
 ## Literature
