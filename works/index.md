@@ -9,14 +9,15 @@ description: Hoyan Mok's personal pages
 
 
 ## Notes on Mathematics
-GitHub Repository: [HoyanMok/NotesOnMathematics](https://github.com/HoyanMok/NotesOnMathematics)
 
 HTMLs generated using [pdf2HTMLEX](https://github.com/coolwanglu/pdf2htmlEX):
-* [Analysis](./NotesOnMathematics/Analysis.html)
-* [Geometry](./NotesOnMathematics/Geometry.html)
-* [Topology](./NotesOnMathematics/Topology.html)
-* [SetTheory](./NotesOnMathematics/SetTheory.html)
-* [Algebra](./NotesOnMathematics/Algebra.html)
+* [Analysis](./Analysis.html)
+* [Geometry](./Geometry.html)
+* [Topology](./Topology.html)
+* [SetTheory](./SetTheory.html)
+* [Algebra](./Algebra.html)
+
+Or you can get PDFs and TeX files in my GitHub Repository: [HoyanMok/NotesOnMathematics](https://github.com/HoyanMok/NotesOnMathematics)
 
 
 
@@ -24,7 +25,7 @@ HTMLs generated using [pdf2HTMLEX](https://github.com/coolwanglu/pdf2htmlEX):
 * [HoyanMok/PhyHubThesis](https://github.com/HoyanMok/PhyHubThesis): 
 a LaTeX template for physics lesson thesis 
 * [HoyanMok/TeXplates](https://github.com/HoyanMok/TeXplates): 
-several LaTeX templates for personal usage.
+several LaTeX templates for personal usages
 
 ## Literature
 * [Novella Unnamed](./novella_unnamed.md)
