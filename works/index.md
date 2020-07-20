@@ -10,7 +10,7 @@ description: Hoyan Mok's personal pages
 
 ## Notes on Mathematics
 
-HTMLs generated using [pdf2HTMLEX](https://github.com/coolwanglu/pdf2htmlEX):
+HTMLs generated using [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX):
 * [Analysis](./Analysis.html)
 * [Geometry](./Geometry.html)
 * [Topology](./Topology.html)
